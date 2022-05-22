@@ -1,0 +1,1 @@
+class NewCustomer1ItemModel { }

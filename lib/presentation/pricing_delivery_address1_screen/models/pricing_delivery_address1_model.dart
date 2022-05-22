@@ -1,0 +1,1 @@
+class PricingDeliveryAddress1Model { }
