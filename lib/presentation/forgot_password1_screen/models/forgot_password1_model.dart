@@ -1,0 +1,1 @@
+class ForgotPassword1Model { }

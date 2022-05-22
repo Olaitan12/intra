@@ -1,0 +1,1 @@
+class Subscription2ScreenItemModel { }
